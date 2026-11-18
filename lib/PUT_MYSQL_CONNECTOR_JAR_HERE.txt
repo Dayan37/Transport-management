@@ -1,0 +1,3 @@
+Copy mysql-connector-j-x.x.x.jar into this folder.
+Download: https://dev.mysql.com/downloads/connector/j/  (Platform Independent -> ZIP -> take the .jar inside)
+Then in IntelliJ: File -> Project Structure -> Libraries -> + -> Java -> select the jar.
